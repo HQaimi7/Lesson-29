@@ -11,9 +11,9 @@ print(marks_perc)
 import matplotlib.pyplot as plt
 
 # Sample data
-students_names = ["Alice", "Bob", "Charlie", "David"]
-students_marks = [85, 90, 78, 92]
-marks_perc = [85.0, 90.0, 78.0, 92.0]  # Assuming out of 100
+students_names = ["Hayyan", "Rayyan", "Fatima", "Areeb", "Sana", "Irfan"]
+students_marks = [99, 2, 85, 80, 99, 95]
+marks_perc = [99.0, 2.0, 85.0, 80.0, 95.0, 95.0 ]  # Assuming out of 100
 
 # Line chart
 def marks_line_chart():
